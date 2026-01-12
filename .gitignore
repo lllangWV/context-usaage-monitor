@@ -1,0 +1,20 @@
+# State files
+.state/
+*.count
+
+# Debug logs
+debug.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Claude Code local settings
+.claude/settings.local.json

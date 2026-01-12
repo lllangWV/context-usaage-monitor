@@ -1,0 +1,8 @@
+{
+  "name": "context-usage-monitor",
+  "version": "1.0.0",
+  "description": "Monitor and display Claude Code context window usage after tool calls",
+  "author": "lllang",
+  "homepage": "https://github.com/lllang/context-usage-monitor",
+  "hooks": "../hooks/hooks.json"
+}
